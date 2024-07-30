@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  width: 200px;
+  
+  pointer-events: none;
+}
+
