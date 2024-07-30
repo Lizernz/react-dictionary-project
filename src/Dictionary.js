@@ -15,7 +15,7 @@ import "./Dictionary.css";
             event.preventDefault();
     
     
-    let apiUrl = `https://api.shecodes.io/dictionary/v1/word=${keyword}`;
+    let apiUrl = `https://api.dictionaryapi.dev/api/v2/entries/en_US/${keyword}`;
     axios.get(apiUrl).then(handleResponse)
         }
 
