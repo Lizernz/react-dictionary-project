@@ -5,7 +5,7 @@ import "./Dictionary.css";
 
     function Dictionary () {
         let [keyword, setkeyword] = useState("");
-        let [results, setResults] = useState({});
+        let [results, setResults] = useState(null);
 
         function handleResponse(response) {
             console.log(response.data[0]);
