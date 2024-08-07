@@ -7,9 +7,12 @@
   width: 200px;
   display: block;
   margin: 0 auto;
+  filter: brightness(0.6);
 }
 .App-footer {
   text-align: center;
   margin:30px 0;
 }
-
+.App .container {
+  background: rgb(250, 248, 250);;
+}
