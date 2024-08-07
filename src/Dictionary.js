@@ -53,7 +53,7 @@ import "./Dictionary.css";
             defaultvalue={props.defaultkeyword} />
         </form>
         <div className="hint">
-           Suggested words: sunset,  days, climate, food...
+           Suggested words: sunset, days, food, animals, countries...
         </div>
         </section>
        

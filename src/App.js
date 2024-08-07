@@ -13,7 +13,13 @@ function App() {
         <Dictionary defaultkeyword="sunset" />
       </main>
       <footer className="App-footer">
-        <small>Coded by Elizabeth Lavender</small>
+ <small>This project was coded by Elizabeth Lavender and  is open-sourced on &nbsp;
+<a 
+href="https://github.com/Lizernz/react-dictionary-project"
+target="_blank" rel="noreferrer">Github </a> and on &nbsp;
+
+<a href="https://lizernz-dictionary-project.netlify.app/"
+target="_blank" rel="noreferrer">Netlify</a></small>
       </footer>
     </div>
     </div>
